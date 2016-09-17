@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>None</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.1CF1660D-226C-46D1-8715-E5A263FB55A6</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>5F265EDD-F79F-4910-BE9E-E20D5AADE8B8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>alibaba-inc</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>wifi</string>
+	<key>PayloadIdentifier</key>
+	<string>Run-Snail.local.486FE9B5-DAEA-417E-90A4-053F781EAC10</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C6E225AC-A96D-4AAE-8F87-6B36D84CD462</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
